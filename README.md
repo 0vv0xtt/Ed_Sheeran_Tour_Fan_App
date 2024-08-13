@@ -4,6 +4,7 @@
 This project is a class assignment where we developed a fan app for an artist on a hypothetical world tour. We chose to focus on Ed Sheeran, creating a fan app using R Shiny that provides essential information for fans attending his concerts at various stadiums across the world. The app is designed to enhance the concert experience by offering detailed information on amenities near each stadium, including restaurants, hotels, and local attractions.
 
 ![alt text]([https://github.com/[0vv0xtt/Ed_Sheeran_Tour_Fan_App/blob/main/Ed%20Sheeran%20Tour%20Poster.jpg])
+(Tour Poster)
 
 #### Project Goals:
 The primary goal of this project was to demonstrate our ability to create a functional, real-world application using R Shiny. By simulating a fan app for a world-renowned artist like Ed Sheeran, we aimed to create a tool that could genuinely enhance the concert-going experience. This project allowed us to apply our skills in data visualization, web development, database management, and user experience design in a practical, engaging context.
@@ -22,6 +23,8 @@ The primary goal of this project was to demonstrate our ability to create a func
 - **HTML and CSS:** Used in conjunction with R Shiny to enhance the design and user experience.
 - **SQL Database:** The data scraped from Yelp was stored in an SQL database to efficiently manage and query information related to the stadiums and nearby amenities.
 - **Data Sources:** The data on restaurants, hotels, and attractions were scraped from Yelp using APIs.
+
+#### Relational Database Schema
 
 #### Collaboration:
 This project was a collaborative effort of 7 Columbia students, with each team member contributing to different aspects of the app's development, including data scraping, front-end design, back-end functionality, and database management.
