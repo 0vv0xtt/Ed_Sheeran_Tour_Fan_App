@@ -19,16 +19,16 @@ This project is a class assignment where we developed a fan app for an artist on
 - **Data Sources:** The data on restaurants, hotels, and attractions were scraped from Yelp using APIs.
 
 #### Collaboration:
-This project was a collaborative effort of 7 columbia students, with each team member contributing to different aspects of the app's development, including data scraping, front-end design, back-end functionality, and database management.
+This project was a collaborative effort of 7 Columbia students, with each team member contributing to different aspects of the app's development, including data scraping, front-end design, back-end functionality, and database management.
 
 The work is breakdown as the following:
-- Web Scrapping API - Wenxuan(Alice) Wu
+- Web Scrapping API & Data Collection - Wenxuan(Alice) Wu, Wendy Chen, Yuang Zhao
 - Data Cleaning and Normalization - Vivian Yin & Wendy Chen
-- Relational Database Design and Database Managment - Vivian Yin & Wenxuan (Alice) Wu
+- Relational Database Design and Database Management - Vivian Yin & Wenxuan (Alice) Wu
 - Data Loading - Wenxuan (Alice) Wu
 - Shiny App Development - Vivian Yin (home page & app UI), Wenqing Huang (Restaurant & Hotel page, Interactive map & app UI), Shuwen Chen (Discography & recommendation page), Yifei Pan (Ticket Sale & About us page)
 
-Special Thanks to Prof. Day Yi for helping us constructing the app and enhencing the features 
+Special Thanks to Prof. Day Yi for helping us construct the app and enhance the features
 
 
 #### Project Goals:
