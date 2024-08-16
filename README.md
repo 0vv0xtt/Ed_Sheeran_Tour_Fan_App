@@ -38,4 +38,4 @@ The work is breakdown as the following:
 - Data Loading - Wenxuan (Alice) Wu
 - Shiny App Development - Vivian Yin (home page & app UI), Wenqing Huang (Restaurant & Hotel page, Interactive map & app UI Design), Shuwen Chen (Discography & Music recommendation page), Yifei Pan (Ticket Sale & About us page)
 
-Special Thanks to Prof. Day Yi for helping us construct the app and enhance the features
+Special thanks to Prof. Day Yi for his invaluable support in helping us construct and enhance the features of the app. We could not have accomplished this without his guidance and expertise.
