@@ -34,6 +34,6 @@ The work is breakdown as the following:
 - Data Cleaning and Normalization - Vivian Yin & Wendy Chen
 - Relational Database Design and Database Management - Vivian Yin & Wenxuan (Alice) Wu
 - Data Loading - Wenxuan (Alice) Wu
-- Shiny App Development - Vivian Yin (home page & app UI), Wenqing Huang (Restaurant & Hotel page, Interactive map & app UI), Shuwen Chen (Discography & recommendation page), Yifei Pan (Ticket Sale & About us page)
+- Shiny App Development - Vivian Yin (home page & app UI), Wenqing Huang (Restaurant & Hotel page, Interactive map & app UI Design), Shuwen Chen (Discography & Music recommendation page), Yifei Pan (Ticket Sale & About us page)
 
 Special Thanks to Prof. Day Yi for helping us construct the app and enhance the features
