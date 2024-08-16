@@ -1,5 +1,7 @@
 ### Ed Sheeran World Tour Fan App 
 
+APP Demo: https://vivianry.shinyapps.io/Ed_Sheeran_World_Tour_Fan_APP/
+
 #### Project Overview:
 This project is a class assignment where we developed a fan app for an artist on a hypothetical world tour. We chose to focus on Ed Sheeran, creating a fan app using R Shiny that provides essential information for fans attending his concerts at various stadiums across the world. The app is designed to enhance the concert experience by offering detailed information on amenities near each stadium, including restaurants, hotels, and local attractions.
 
@@ -21,7 +23,7 @@ The primary goal of this project was to demonstrate our ability to create a func
 #### Technology Stack:
 - **R Shiny:** For building the interactive web application.
 - **HTML and CSS:** Used in conjunction with R Shiny to enhance the design and user experience.
-- **SQL Database:** The data scraped from Yelp was stored in an SQL database to efficiently manage and query information related to the stadiums and nearby amenities.
+- **PostgreSQL Database:** The data scraped from Yelp was stored in an SQL database to efficiently manage and query information related to the stadiums and nearby amenities.
 - **Data Sources:** The data on restaurants, hotels, and attractions were scraped from Yelp using APIs.
 
 #### Relational Database Schema
