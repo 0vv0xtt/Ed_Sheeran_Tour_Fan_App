@@ -1,6 +1,6 @@
 ### Ed Sheeran World Tour Fan App 
 
-APP Demo: https://vivianry.shinyapps.io/Ed_Sheeran_World_Tour_Fan_APP/
+🔗App Demo: https://vivianry.shinyapps.io/Ed_Sheeran_World_Tour_Fan_APP/
 
 #### Project Overview:
 This project is a class assignment where we developed a fan app for an artist on a hypothetical world tour. We chose to focus on Ed Sheeran, creating a fan app using R Shiny that provides essential information for fans attending his concerts at various stadiums across the world. The app is designed to enhance the concert experience by offering detailed information on amenities near each stadium, including restaurants, hotels, and local attractions.
@@ -38,4 +38,4 @@ The work is breakdown as the following:
 - Data Loading - Wenxuan (Alice) Wu
 - Shiny App Development - Vivian Yin (home page & app UI), Wenqing Huang (Restaurant & Hotel page, Interactive map & app UI Design), Shuwen Chen (Discography & Music recommendation page), Yifei Pan (Ticket Sale & About us page)
 
-Special thanks to Prof. Day Yi for his invaluable support in helping us construct and enhance the features of the app. We could not have accomplished this without his guidance and expertise.
+ 🎉 Special thanks to Prof. Day Yi for his invaluable support in helping us construct and enhance the features of the app. We could not have accomplished this without his guidance and expertise.
