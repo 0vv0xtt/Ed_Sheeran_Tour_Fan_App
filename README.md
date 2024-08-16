@@ -12,7 +12,7 @@ The primary goal of this project was to demonstrate our ability to create a func
 #### Key Features:
 - **Stadium Information:** The app includes a list of major stadiums where an artist of Ed Sheeran's might perform. The app will provide each stadium's details such as location, and other relevant information.
   
-- **Nearby Amenities:** For each stadium, the app offers a curated list of nearby restaurants, hotels, and popular local attractions. This allows fans to plan their visit with ease, ensuring they have access to dining, accommodation, and entertainment options close to the concert venue.
+- **Nearby Amenities:** For each stadium, the app offers a curated list of nearby restaurants, hotels, and popular local attractions. The interactive map allows user to reserve local restaurant, book hotels, and navigate to nearby entertainments. It allows fans to plan their visit with ease, ensuring they have access to dining, accommodation, and entertainment options close to the concert venue. 
   
 - **Interactive Maps:** The app features interactive maps that show the location of each stadium and the surrounding amenities. Fans can explore the area visually and make informed decisions about where to eat, stay, and what to do before or after the concert.
 
