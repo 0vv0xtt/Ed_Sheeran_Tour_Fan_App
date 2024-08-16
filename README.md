@@ -3,7 +3,7 @@
 #### Project Overview:
 This project is a class assignment where we developed a fan app for an artist on a hypothetical world tour. We chose to focus on Ed Sheeran, creating a fan app using R Shiny that provides essential information for fans attending his concerts at various stadiums across the world. The app is designed to enhance the concert experience by offering detailed information on amenities near each stadium, including restaurants, hotels, and local attractions.
 
-![alt text]([[https://github.com/[0vv0xtt/Ed_Sheeran_Tour_Fan_App/blob/main/Ed%20Sheeran%20Tour%20Poster.jpg](https://github.com/0vv0xtt/Ed_Sheeran_Tour_Fan_App/blob/79cf008cf37c8f42a6081b31d921315333147d3b/Ed%20Sheeran%20Tour%20Poster.jpg)])
+![alt text]((https://github.com/0vv0xtt/Ed_Sheeran_Tour_Fan_App/blob/79cf008cf37c8f42a6081b31d921315333147d3b/Ed%20Sheeran%20Tour%20Poster.jpg))
 (Tour Poster)
 
 #### Project Goals:
