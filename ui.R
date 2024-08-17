@@ -1,3 +1,4 @@
+# Courtesy of Vivian Yin, Wenqing Huang, Shuwen Chen, and Yifei Pan
 ui <- fluidPage(
   useShinyjs(), 
   tags$head(
