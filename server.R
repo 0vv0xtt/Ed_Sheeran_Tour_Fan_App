@@ -1,3 +1,4 @@
+# Courtesy of Vivian Yin, Wenqing Huang, Shuwen Chen, and Yifei Pan
 server <- function(input, output, session) {
   
   # reactive values----
