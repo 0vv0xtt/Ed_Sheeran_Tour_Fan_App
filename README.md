@@ -5,14 +5,15 @@
 #### Project Overview:
 This project is a class assignment where we developed a fan app for an artist on a hypothetical world tour. We chose to focus on Ed Sheeran, creating a fan app using R Shiny that provides essential information for fans attending his concerts at various stadiums across the world. The app is designed to enhance the concert experience by offering detailed information on amenities near each stadium, including restaurants, hotels, and local attractions.
 
-![alt text](https://github.com/0vv0xtt/Ed_Sheeran_Tour_Fan_App/blob/79cf008cf37c8f42a6081b31d921315333147d3b/Ed%20Sheeran%20Tour%20Poster.jpg)
-(Tour Poster, *Courtesy of Wenqing Huang and Wenxuan Wu*)
-
 #### Business Objectives:
 The business objective of this project was to simulate the development of a real-world, user-centric application that could add value to the concert industry, particularly in terms of enhancing fan engagement and supporting the logistical challenges of attending large-scale events. The app also demonstrates how such a tool could be monetized through partnerships with local businesses, hotels, and restaurants, potentially serving as a valuable platform for sponsorship and advertising.
 
 #### Project Goals:
 The primary goal of this project was to showcase our ability to develop a user-focused, functional application using R Shiny that addresses both fan needs and business opportunities. By simulating an app for a world-renowned artist like Ed Sheeran, we explored how technology can be leveraged to improve customer experiences while creating new revenue streams for businesses operating in the event, hospitality, and entertainment sectors.
+
+
+![alt text](https://github.com/0vv0xtt/Ed_Sheeran_Tour_Fan_App/blob/79cf008cf37c8f42a6081b31d921315333147d3b/Ed%20Sheeran%20Tour%20Poster.jpg)
+(Tour Poster, *Courtesy of Wenqing Huang and Wenxuan Wu*)
 
 #### Key Features:
 - **Stadium Information:** The app includes a list of major stadiums where an artist of Ed Sheeran's might perform. The app will provide each stadium's details such as location, and other relevant information.
@@ -30,8 +31,9 @@ The primary goal of this project was to showcase our ability to develop a user-f
 - **Data Sources:** The data on restaurants, hotels, and attractions were scraped from Yelp using APIs.
 
 #### Database Schema
+![alt text](https://github.com/0vv0xtt/Ed_Sheeran_Tour_Fan_App/blob/15bd46b5a0ea6e4565afab8e73fff0d15cec3859/Fan%20app%20database%20schema.png)
 
-#### Collaboration:
+#### Developing team:
 This project was a collaborative effort of 7 Columbia students, with each team member contributing to different aspects of the app's development, including data scraping, front-end design, back-end functionality, and database management.
 
 The work is breakdown as the following:
