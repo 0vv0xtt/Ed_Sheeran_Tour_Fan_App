@@ -44,3 +44,6 @@ The work is breakdown as the following:
 - Shiny App Development - Vivian Yin (Home Page & App UI Design), Wenqing Huang (Restaurant & Hotel page, Interactive map & app UI Design), Shuwen Chen (Discography & Music Recommendation page), Yifei Pan (Ticket Sale & About us page)
 
  🎉 Special thanks to Prof. Day Yi for his invaluable support in helping us construct and enhance the features of the app. We could not have accomplished this without his guidance and expertise.
+
+#### *Disclaimer*
+This fan app is a student project developed as part of an academic course. It is not affiliated with or endorsed by Ed Sheeran or any associated entities. The project was created for educational purposes only, simulating a real-world application to demonstrate technical skills in R Shiny, HTML, CSS, and data integration.
