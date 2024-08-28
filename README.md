@@ -6,11 +6,9 @@
 In this project, we developed a fan app for a world-renowned artist, Ed Sheeran, for his hypothetical world tour, the Integral Tour. We chose to focus on Ed Sheeran, creating a fan app using R Shiny that provides essential information for fans attending his concerts at various stadiums across the world. The app is designed to enhance the concert experience by offering detailed information on amenities near each stadium, including restaurants, hotels, and local attractions.
 
 #### Business Objectives:
-The business objective of this project was to simulate the development of a real-world, user-centric application that could add value to the concert industry, particularly in terms of enhancing fan engagement and supporting the logistical challenges of attending large-scale events. The app also demonstrates how such a tool could be monetized through partnerships with local businesses, hotels, and restaurants, potentially serving as a valuable platform for sponsorship and advertising.
+This project simulates the development of a user-centric application aimed at enhancing fan engagement and addressing logistical challenges at large-scale concerts. The app demonstrates how technology can improve the fan experience by offering personalized services, while also creating opportunities for monetization through partnerships with local businesses, hotels, and restaurants.
 
-#### Project Goals:
-The primary goal of this project was to showcase our ability to develop a user-focused, functional application using R Shiny that addresses both fan needs and business opportunities. By simulating an app for a world-renowned artist like Ed Sheeran, we explored how technology can be leveraged to improve customer experiences while creating new revenue streams for businesses operating in the event, hospitality, and entertainment sectors.
-
+By focusing on a world-renowned artist like Ed Sheeran, we explored how such a platform can add value to both fans and businesses in the event, hospitality, and entertainment sectors, providing potential for sponsorships, advertising, and new revenue streams.
 
 ![alt text](https://github.com/0vv0xtt/Ed_Sheeran_Tour_Fan_App/blob/79cf008cf37c8f42a6081b31d921315333147d3b/Ed%20Sheeran%20Tour%20Poster.jpg)
 (Tour Poster, *Courtesy of Wenqing Huang and Wenxuan Wu*)
