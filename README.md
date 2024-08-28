@@ -3,7 +3,7 @@
 🔗App Demo: https://vivianry.shinyapps.io/Ed_Sheeran_World_Tour_Fan_APP/
 
 #### Project Overview:
-This project is a class assignment where we developed a fan app for an artist on a hypothetical world tour. We chose to focus on Ed Sheeran, creating a fan app using R Shiny that provides essential information for fans attending his concerts at various stadiums across the world. The app is designed to enhance the concert experience by offering detailed information on amenities near each stadium, including restaurants, hotels, and local attractions.
+In this project, we developed a fan app for a world-renowned artist, Ed Sheeran, for his hypothetical world tour, the Integral Tour. We chose to focus on Ed Sheeran, creating a fan app using R Shiny that provides essential information for fans attending his concerts at various stadiums across the world. The app is designed to enhance the concert experience by offering detailed information on amenities near each stadium, including restaurants, hotels, and local attractions.
 
 #### Business Objectives:
 The business objective of this project was to simulate the development of a real-world, user-centric application that could add value to the concert industry, particularly in terms of enhancing fan engagement and supporting the logistical challenges of attending large-scale events. The app also demonstrates how such a tool could be monetized through partnerships with local businesses, hotels, and restaurants, potentially serving as a valuable platform for sponsorship and advertising.
