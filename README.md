@@ -1,6 +1,7 @@
 ### Ed Sheeran World Tour Fan App 
 
 🔗App Demo: https://vivianry.shinyapps.io/Ed_Sheeran_World_Tour_Fan_APP/
+📊 Presentation: 
 
 #### Project Overview:
 In this project, we developed a fan app for a world-renowned artist, Ed Sheeran, for his hypothetical world tour, the Integral Tour. We chose to focus on Ed Sheeran, creating a fan app using R Shiny that provides essential information for fans attending his concerts at various stadiums across the world. The app is designed to enhance the concert experience by offering detailed information on amenities near each stadium, including restaurants, hotels, and local attractions.
